@@ -9,7 +9,7 @@ This project leverages two datasets sourced from Kaggle:
 - **Python (Pandas):** Performed data cleaning, manipulation, and analysis using Python’s Pandas library. Detailed methods and scripts are available [here](https://medium.com/p/43cb3689b60c).
 - **Power BI:** Data visualization, DAX calculations, and dashboard creation
 
-## Project Example
+## Project preview
 Here’s a preview of the analytic dashboard created for this project:
 
 ![Historical](https://github.com/Kanangnut/Paris-Olympic-Dashboard-Analysis/blob/main/asset/gif.gif?raw=true)
