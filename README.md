@@ -6,7 +6,7 @@ This project leverages two datasets sourced from Kaggle:
 - [Olympic Historical Dataset (1896-2020)](https://www.kaggle.com/muhammadehsan000/olympic-historical-dataset-1896-2020) by muhammadehsan000
 
 ## Skills Utilized
-- **Python (Pandas):** Data cleaning, manipulation, and analysis
+- **Python (Pandas):** Performed data cleaning, manipulation, and analysis using Python’s Pandas library. Detailed methods and scripts are available [here](https://medium.com/p/43cb3689b60c).
 - **Power BI:** Data visualization, DAX calculations, and dashboard creation
 
 ## Project Example
