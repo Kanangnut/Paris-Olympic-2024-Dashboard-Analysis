@@ -12,6 +12,6 @@ This project leverages two datasets sourced from Kaggle:
 ## Project Example
 Here’s a preview of the analytic dashboard created for this project:
 
-![Paris Olympic 2024 Dashboard](path_to_your_image_file)
+Home
 
 ![Home](https://github.com/Kanangnut/Paris-Olympic-Dashboard-Analysis/blob/main/asset/Home.png?raw=true)
