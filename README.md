@@ -22,9 +22,13 @@ Here’s a preview of the analytic dashboard created for this project:
 
 ### Page 02
 
-![Country](https://github.com/Kanangnut/Paris-Olympic-Dashboard-Analysis/blob/main/asset/Country.png?raw=true)
+![Athletes](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis/blob/main/asset/Athletes.png?raw=true)
 
 ### Page 03
+
+![Country](https://github.com/Kanangnut/Paris-Olympic-Dashboard-Analysis/blob/main/asset/Country.png?raw=true)
+
+### Page 04
 
 ![Historical](https://github.com/Kanangnut/Paris-Olympic-Dashboard-Analysis/blob/main/asset/Historical.png?raw=true)
 
