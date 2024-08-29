@@ -1,5 +1,7 @@
 # Paris Olympic 2024 Analytic Dashboard
 
+Project Portfolio [Link](https://kanangnut.github.io/Paris-Olympic-2024-Dashboard-Analysis/)
+
 ## Data Sources
 This project leverages two datasets sourced from Kaggle:
 - [Paris 2024 Olympic Summer Games Dataset](https://www.kaggle.com/piterfm/paris-2024-olympic-summer-games) by piterfm
