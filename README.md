@@ -14,7 +14,17 @@ This project leverages two datasets sourced from Kaggle:
 ## Project preview
 Here’s a preview of the analytic dashboard created for this project:
 
-![Historical](https://github.com/Kanangnut/Paris-Olympic-Dashboard-Analysis/blob/main/asset/gif.gif?raw=true)
+![gif](https://github.com/Kanangnut/Paris-Olympic-Dashboard-Analysis/blob/main/asset/gif.gif?raw=true)
+
+![Home](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis/blob/main/asset/Home.png?raw=true)
+
+![01](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis/blob/main/asset/Overview.png?raw=true)
+
+![02](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis/blob/main/asset/Athletes.png?raw=true)
+
+![03](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis/blob/main/asset/Country.png?raw=true)
+
+![04](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis/blob/main/asset/Historical.png?raw=true)
 
 ## Benefits from this project
 
